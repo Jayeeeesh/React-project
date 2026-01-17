@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # coding-project-template
 # e-plantShopping 🌱
 
@@ -31,3 +32,6 @@ This project demonstrates the use of **React functional components**, **Redux To
 
 ## 📂 Folder Structure (Brief)
 
+=======
+# React-project
+>>>>>>> 48e452af0471e0958feb58aaf86ab0edc3cdfe0b
